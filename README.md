@@ -8,3 +8,16 @@ The project achieved slightly better results than the competition winners, but n
 
 In order to use both Python and R, Python was used for the 'data processing' elements (retrieving trading data, loading it into databases etc.)
 and R was used for the machine learning elements.
+
+My course presentation is at https://youtu.be/083FS8Ljdms
+
+Comments from course tutors: 
+
+Instructor 1, Presentation:
+Nice presentation. You get across all of your key points. I especially like the story you tell with the consideration of trading fees.
+
+Instructor 1, Paper:
+Nice project Tom.
+
+Your approach is simple, but appropriate for the method and you provide a very good discussion around your problem area.
+
