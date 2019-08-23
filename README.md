@@ -13,10 +13,10 @@ My course presentation is at https://youtu.be/083FS8Ljdms
 
 Comments from course tutors: 
 
-Instructor 1, Presentation:
+Presentation:
 Nice presentation. You get across all of your key points. I especially like the story you tell with the consideration of trading fees.
 
-Instructor 1, Paper:
+Paper:
 Nice project Tom.
 
 Your approach is simple, but appropriate for the method and you provide a very good discussion around your problem area.
